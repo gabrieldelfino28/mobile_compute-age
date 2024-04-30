@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Compute Age</string>
+    <string name="app_title">Calculo de Idade</string>
+    <string name="input_dia">Dia de nascimento</string>
+    <string name="input_mes">Mes de nascimento</string>
+    <string name="input_ano">Ano de nascimento</string>
+    <string name="btnCalc">Calcular</string>
+    <string name="output">%d Anos, %d Meses e %d Dias!</string>
+    <string name="error">Nenhum campo pode estar vazio!</string>
+    <string name="mesInvalido">Mês Inválido tente novamente!</string>
+    <string name="anoInvalido">Ano Inválido tente novamente!</string>
+    <string name="diaInvalido">Dia Inválido tente novamente!</string>
+</resources>
