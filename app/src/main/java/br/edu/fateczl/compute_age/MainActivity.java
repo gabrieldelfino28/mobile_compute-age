@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
                 mesNow -= 1;
                 if (mesNow < 8) { //Antes de Agosto
                     if (mesNow == 2) {
-                        if (anoNow % 4 == 0 && anoNow % 100 == 0 && anoNow % 400 == 0) {
+                        if (anoNow % 4 == 0 || anoNow % 400 == 0) {
                             diaNow += 29;
                         } else {
                             diaNow += 28;
